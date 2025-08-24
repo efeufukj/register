@@ -1,0 +1,11 @@
+{
+  "description": "kingxfightzero kişisel sitesi",
+  "subdomain": "kingxfightzero",
+  "owner": {
+    "repo": "https://github.com/efeufukj/register",
+    "email": "efeu910@gmail.com"
+  },
+  "record": {
+    "CNAME": "kingxfightzero.netlify.app"
+  }
+}
